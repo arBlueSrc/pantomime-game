@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">پانتومیم</string>
+    <string name="pantomim">مسابقه پانتومیم</string>
+    <string name="ready">برای شروع مسابقه اماده اید ؟</string>
+    <string name="start">شروع</string>
+    <string name="kalame_morede_nazar">کلمه موردنظر</string>
+    <string name="kalame">خیار</string>
+    <string name="correct">درست</string>
+    <string name="wrong">غلط</string>
+    <string name="your_score">امتیاز شما</string>
+    <string name="again">شروع دوباره</string>
+    <string name="score">امتیاز %d</string>
+    <string name="last_score">آخرین امتیاز کاربر : %d</string>
+</resources>
